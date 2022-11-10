@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/JamshedSadullaev/AwesomePortfolio/static/css/main.19408027.css",
-    "main.js": "/JamshedSadullaev/AwesomePortfolio/static/js/main.8a7f7ad6.js",
-    "static/js/787.1ed0c42c.chunk.js": "/JamshedSadullaev/AwesomePortfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/avatar.jpg": "/JamshedSadullaev/AwesomePortfolio/static/media/avatar.d1588de572605c496bb3.jpg",
-    "static/media/JamshedSadullaev.pdf": "/JamshedSadullaev/AwesomePortfolio/static/media/JamshedSadullaev.5e497d70a9936fcd07d2.pdf",
-    "static/media/food.jpg": "/JamshedSadullaev/AwesomePortfolio/static/media/food.0915872bb4eb09b4efc8.jpg",
-    "static/media/jQuery.png": "/JamshedSadullaev/AwesomePortfolio/static/media/jQuery.66108f53b218c72ed50a.png",
-    "static/media/password.jpg": "/JamshedSadullaev/AwesomePortfolio/static/media/password.e1b32d9293c51169f396.jpg",
-    "static/media/weather.jpg": "/JamshedSadullaev/AwesomePortfolio/static/media/weather.e2549662bb9cf0fd1111.jpg",
-    "index.html": "/JamshedSadullaev/AwesomePortfolio/index.html",
-    "main.19408027.css.map": "/JamshedSadullaev/AwesomePortfolio/static/css/main.19408027.css.map",
-    "main.8a7f7ad6.js.map": "/JamshedSadullaev/AwesomePortfolio/static/js/main.8a7f7ad6.js.map",
-    "787.1ed0c42c.chunk.js.map": "/JamshedSadullaev/AwesomePortfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/AwesomePortfolio/static/css/main.19408027.css",
+    "main.js": "/AwesomePortfolio/static/js/main.92246b35.js",
+    "static/js/787.1ed0c42c.chunk.js": "/AwesomePortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.jpg": "/AwesomePortfolio/static/media/avatar.d1588de572605c496bb3.jpg",
+    "static/media/JamshedSadullaev.pdf": "/AwesomePortfolio/static/media/JamshedSadullaev.5e497d70a9936fcd07d2.pdf",
+    "static/media/food.jpg": "/AwesomePortfolio/static/media/food.0915872bb4eb09b4efc8.jpg",
+    "static/media/jQuery.png": "/AwesomePortfolio/static/media/jQuery.66108f53b218c72ed50a.png",
+    "static/media/password.jpg": "/AwesomePortfolio/static/media/password.e1b32d9293c51169f396.jpg",
+    "static/media/weather.jpg": "/AwesomePortfolio/static/media/weather.e2549662bb9cf0fd1111.jpg",
+    "index.html": "/AwesomePortfolio/index.html",
+    "main.19408027.css.map": "/AwesomePortfolio/static/css/main.19408027.css.map",
+    "main.92246b35.js.map": "/AwesomePortfolio/static/js/main.92246b35.js.map",
+    "787.1ed0c42c.chunk.js.map": "/AwesomePortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19408027.css",
-    "static/js/main.8a7f7ad6.js"
+    "static/js/main.92246b35.js"
   ]
 }
