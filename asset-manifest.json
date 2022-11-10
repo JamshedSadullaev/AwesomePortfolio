@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/css/main.19408027.css",
+    "main.js": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/js/main.456dfd2e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.jpg": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/media/avatar.d1588de572605c496bb3.jpg",
+    "static/media/JamshedSadullaev.pdf": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/media/JamshedSadullaev.5e497d70a9936fcd07d2.pdf",
+    "static/media/food.jpg": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/media/food.0915872bb4eb09b4efc8.jpg",
+    "static/media/jQuery.png": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/media/jQuery.66108f53b218c72ed50a.png",
+    "static/media/password.jpg": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/media/password.e1b32d9293c51169f396.jpg",
+    "static/media/weather.jpg": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/media/weather.e2549662bb9cf0fd1111.jpg",
+    "index.html": "/https://github.com/JamshedSadullaev/AwesomePortfolio/index.html",
+    "main.19408027.css.map": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/css/main.19408027.css.map",
+    "main.456dfd2e.js.map": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/js/main.456dfd2e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/https://github.com/JamshedSadullaev/AwesomePortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19408027.css",
+    "static/js/main.456dfd2e.js"
+  ]
+}
