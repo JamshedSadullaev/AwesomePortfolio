@@ -1,21 +1,24 @@
 {
   "files": {
     "main.css": "/AwesomePortfolio/static/css/main.19408027.css",
-    "main.js": "/AwesomePortfolio/static/js/main.92246b35.js",
+    "main.js": "/AwesomePortfolio/static/js/main.f3d86245.js",
     "static/js/787.1ed0c42c.chunk.js": "/AwesomePortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar.jpg": "/AwesomePortfolio/static/media/avatar.d1588de572605c496bb3.jpg",
     "static/media/JamshedSadullaev.pdf": "/AwesomePortfolio/static/media/JamshedSadullaev.5e497d70a9936fcd07d2.pdf",
     "static/media/food.jpg": "/AwesomePortfolio/static/media/food.0915872bb4eb09b4efc8.jpg",
+    "static/media/Horiseon.jpg": "/AwesomePortfolio/static/media/Horiseon.59af93f86fe632ed602c.jpg",
+    "static/media/Diary.jpg": "/AwesomePortfolio/static/media/Diary.d0535867dad43e3c22f6.jpg",
     "static/media/jQuery.png": "/AwesomePortfolio/static/media/jQuery.66108f53b218c72ed50a.png",
+    "static/media/notetaker.jpg": "/AwesomePortfolio/static/media/notetaker.3f9cd810fe746e5442d5.jpg",
     "static/media/password.jpg": "/AwesomePortfolio/static/media/password.e1b32d9293c51169f396.jpg",
     "static/media/weather.jpg": "/AwesomePortfolio/static/media/weather.e2549662bb9cf0fd1111.jpg",
     "index.html": "/AwesomePortfolio/index.html",
     "main.19408027.css.map": "/AwesomePortfolio/static/css/main.19408027.css.map",
-    "main.92246b35.js.map": "/AwesomePortfolio/static/js/main.92246b35.js.map",
+    "main.f3d86245.js.map": "/AwesomePortfolio/static/js/main.f3d86245.js.map",
     "787.1ed0c42c.chunk.js.map": "/AwesomePortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19408027.css",
-    "static/js/main.92246b35.js"
+    "static/js/main.f3d86245.js"
   ]
 }
