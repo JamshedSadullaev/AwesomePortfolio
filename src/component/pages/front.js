@@ -6,6 +6,9 @@ import Card from 'react-bootstrap/Card';
 import Weather from '../../img/weather.jpg';
 import PasswordGenerator from '../../img/password.jpg';
 import Food from '../../img/food.jpg';
+import NoteTaker from "../../img/notetaker.jpg";
+import Diary from "../../img/Diary.jpg"
+import Horiseon from "../../img/Horiseon.jpg";
 
 
 const Front = () => {
@@ -57,12 +60,45 @@ const Front = () => {
           </Carousel.Item>
           <Carousel.Item>
             <Project
+              title='Note Taker'
+              image={NoteTaker}
+              desc="Saves your daily notes"
+              jargon='Front End application'
+              repo='https://github.com/JamshedSadullaev/quickNote-Taker'
+              deploy='https://github.com/JamshedSadullaev/quickNote-Taker'
+              techs='CSS3, HTML5, JavaScript'
+            />
+          </Carousel.Item>
+          <Carousel.Item>
+            <Project
               title='Password Generating'
               image={PasswordGenerator}
               desc="Makes any type of password for websites"
               jargon='Front End application'
               repo='https://github.com/JamshedSadullaev/Third-Challenge'
               deploy='https://jamshedsadullaev.github.io/Third-Challenge/'
+              techs='CSS3, HTML5, JavaScript'
+            />
+          </Carousel.Item>
+          <Carousel.Item>
+            <Project
+              title='Diary and Quote'
+              image={Diary}
+              desc="Your daily secrets"
+              jargon='Front End application'
+              repo='https://github.com/Jesse115'
+              deploy='https://murmuring-stream-25656.herokuapp.com/ https://git.heroku.com/murmuring-stream-25656.git'
+              techs='CSS3, HTML5, JavaScript'
+            />
+          </Carousel.Item>
+          <Carousel.Item>
+            <Project
+              title='Horiseon'
+              image={Horiseon}
+              desc="Management"
+              jargon='Front End application'
+              repo='https://github.com/JamshedSadullaev/First-Challenge'
+              deploy='https://jamshedsadullaev.github.io/First-Challenge/#search-engine-optimization'
               techs='CSS3, HTML5, JavaScript'
             />
           </Carousel.Item>

@@ -42,7 +42,8 @@ const Home = () => {
                 </h2>
                 <hr className='text-white'></hr>
                 <p className='card-text text-green' style={styles.dark}>
-                  'Full Stack Web developer with the experience of Javascript and 
+                  'Hi, My name is Jamshed and I am a 
+                   Full Stack Web developer with the experience of Javascript and 
                   React designing web applications and problem solving skills.
                   Recently earning a certificate from University of Pennsylvania Coding Bootcamp.'
                 </p>
